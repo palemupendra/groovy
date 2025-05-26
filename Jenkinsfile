@@ -1,5 +1,5 @@
 // Jenkinsfile - Pipeline using the shared library
-@Library('your-shared-library') _
+@Library('my-shared-lib') _
 
 pipeline {
     agent any
