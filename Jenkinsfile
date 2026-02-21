@@ -18,10 +18,3 @@ pipeline {
         }
     }
 }
-```
-
-**Where to place the file:**
-```
-(shared-library-repo)/
-└── vars/
-    └── gitCheckout.groovy   ← goes here
